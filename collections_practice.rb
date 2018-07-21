@@ -22,6 +22,6 @@ array
 end
 end
 
-def reverse_array (array)
+def reverse_array(array)
   array.reverse
 end
